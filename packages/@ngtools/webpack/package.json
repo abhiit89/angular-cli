@@ -28,7 +28,7 @@
     "enhanced-resolve": "^2.3.0",
     "loader-utils": "^0.2.16",
     "magic-string": "^0.16.0",
-    "source-map": "^0.5.6"
+    "source-map": "^0.7.3"
   },
   "peerDependencies": {
     "@angular/compiler": "^2.3.1",
