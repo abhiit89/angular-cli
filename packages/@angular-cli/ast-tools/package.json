@@ -27,6 +27,6 @@
     "@angular/tsc-wrapped": "^0.5.0",
     "rxjs": "^5.0.1",
     "denodeify": "^1.2.1",
-    "typescript": "~2.0.3"
+    "typescript": "~2.9.2"
   }
 }
